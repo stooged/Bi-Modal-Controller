@@ -11,22 +11,22 @@ depending on the parts you use it will cost anywhere between $60 to $100.<br>
 
 I used a <b>nano</b> board in the project<br>
 
-<img src=https://image.ibb.co/dSGKdA/schematic.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/schematic.jpg><br>
 
 
 I used a fuse tap to get 12v ignition switched power from the fusebox above the battery<br>
-<img src=https://image.ibb.co/g7WLZe/fuse_tap.jpg><br>
-<img src=https://image.ibb.co/jJ6XfK/fuse-diag.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/fuse_tap.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/fuse-diag.jpg><br>
 
 there is a unused bung under the battery tray that can be used to run the wires for the valve controllers<br>
-<img src=https://image.ibb.co/gVpJLK/bung_under_battery.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/bung_under_battery.jpg><br>
 
 in the box<br>
-<img src=https://image.ibb.co/nC0iiA/in-box.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/my_build_in_box.jpg><br>
 top<br>
-<img src=https://image.ibb.co/fyGZqq/top.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/my_build_top.jpg><br>
 bottom<br>
-<img src=https://image.ibb.co/krisbV/bottom.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/my_build_bottom.jpg><br>
 
 
 
