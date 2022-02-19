@@ -16,7 +16,7 @@ I used a <b>nano</b> board in the project<br>
 
 I used a fuse tap to get 12v ignition switched power from the fusebox above the battery<br>
 <img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/fuse_tap.jpg><br>
-<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/fuse-diag.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/fuse_diag.jpg><br>
 
 there is a unused bung under the battery tray that can be used to run the wires for the valve controllers<br>
 <img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/bung_under_battery.jpg><br>
