@@ -32,24 +32,24 @@ bottom<br>
 
 
 <b>Needed parts</b>:<br>
-1x <a href=https://www.jaycar.com.au/duinotech-nano-board-arduino-compatible/p/XC4414></a>  -  $29.95<br>
-1x <a href=https://www.jaycar.com.au/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572></a>  -  $0.55<br>
-1x <a href=https://www.jaycar.com.au/1-5k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0576></a>  -  $0.55<br>
-1x <a href=https://www.jaycar.com.au/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596></a>  -  $0.55<br>
-1x <a href=https://www.jaycar.com.au/7812-12v-1a-voltage-regulator-to-220/p/ZV1512></a>  -  $1.85<br>
-1x <a href=https://www.jaycar.com.au/bc639-npn-transistor/p/ZT2179></a>  -  $0.95<br>
-1x <a href=https://www.jaycar.com.au/double-mini-blade-fuse-socket-wire-tap/p/SF5125></a>  -  $4.95<br>
+1x <a href=https://www.jaycar.com.au/duinotech-nano-board-arduino-compatible/p/XC4414>https://www.jaycar.com.au/duinotech-nano-board-arduino-compatible/p/XC4414</a>  -  $29.95<br>
+1x <a href=https://www.jaycar.com.au/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572>https://www.jaycar.com.au/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572</a>  -  $0.55<br>
+1x <a href=https://www.jaycar.com.au/1-5k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0576>https://www.jaycar.com.au/1-5k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0576</a>  -  $0.55<br>
+1x <a href=https://www.jaycar.com.au/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596>https://www.jaycar.com.au/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596</a>  -  $0.55<br>
+1x <a href=https://www.jaycar.com.au/7812-12v-1a-voltage-regulator-to-220/p/ZV1512>https://www.jaycar.com.au/7812-12v-1a-voltage-regulator-to-220/p/ZV1512</a>  -  $1.85<br>
+1x <a href=https://www.jaycar.com.au/bc639-npn-transistor/p/ZT2179>https://www.jaycar.com.au/bc639-npn-transistor/p/ZT2179</a>  -  $0.95<br>
+1x <a href=https://www.jaycar.com.au/double-mini-blade-fuse-socket-wire-tap/p/SF5125>https://www.jaycar.com.au/double-mini-blade-fuse-socket-wire-tap/p/SF5125</a>  -  $4.95<br>
 
 you can use any "<b>momentary</b>" switch you like<br>
-1x <a href=https://www.jaycar.com.au/ip67-rated-dome-pushbutton-switch-black/p/SP0656></a>  -  $4.95<br>
+1x <a href=https://www.jaycar.com.au/ip67-rated-dome-pushbutton-switch-black/p/SP0656>https://www.jaycar.com.au/ip67-rated-dome-pushbutton-switch-black/p/SP0656</a>  -  $4.95<br>
 
 Total for needed parts: <b>$44.30<br>
 
 
 Optional parts</b>:<br>
-1x <a href=https://www.jaycar.com.au/bulkhead-black-88-x-69-x-33mm/p/HB6075></a>  -  $3.75<br>
-2x <a href=https://www.jaycar.com.au/small-breadboard-layout-prototyping-board/p/HP9570></a>  -  $4.95<br>
-2x <a href=https://www.jaycar.com.au/2-way-pcb-mount-screw-terminals-5mm-pitch/p/HM3172></a>  -  $1.20<br>
+1x <a href=https://www.jaycar.com.au/bulkhead-black-88-x-69-x-33mm/p/HB6075>https://www.jaycar.com.au/bulkhead-black-88-x-69-x-33mm/p/HB6075</a>  -  $3.75<br>
+2x <a href=https://www.jaycar.com.au/small-breadboard-layout-prototyping-board/p/HP9570>https://www.jaycar.com.au/small-breadboard-layout-prototyping-board/p/HP9570</a>  -  $4.95<br>
+2x <a href=https://www.jaycar.com.au/2-way-pcb-mount-screw-terminals-5mm-pitch/p/HM3172>https://www.jaycar.com.au/2-way-pcb-mount-screw-terminals-5mm-pitch/p/HM3172</a>  -  $1.20<br>
 
 Total for all parts i used: <b>$60.35</b><br>
 
@@ -60,7 +60,7 @@ this total does not include the wire, you can source that pretty much anywhere y
 if you want plugs for the valve controllers you can get these ones that john revill linked from aliexpress<br>
 according to the listing there are 4pcs in the lot so you will get 4 plugs in the one purchase.<br>
 
-1x: <a href=https://www.aliexpress.com/item/4pcs-lot-5-Pin-Way-Nitrox-Sensor-Plug-Mass-Air-Flow-Sensor-Meter-MAF-Connector-Socket/32850617234.html></a>  -  $21.40<br>
+1x: <a href=https://www.aliexpress.com/item/4pcs-lot-5-Pin-Way-Nitrox-Sensor-Plug-Mass-Air-Flow-Sensor-Meter-MAF-Connector-Socket/32850617234.html>https://www.aliexpress.com/item/4pcs-lot-5-Pin-Way-Nitrox-Sensor-Plug-Mass-Air-Flow-Sensor-Meter-MAF-Connector-Socket/32850617234.html</a>  -  $21.40<br>
 
 
 Total for all parts i used including the plugs: <b>$81.75</b><br>
