@@ -9,7 +9,7 @@ I just went with a simple momentary switch to toggle the valves but you could us
 
 depending on the parts you use it will cost anywhere between $60 to $100.<br>
 
-I used a <b>nano</b> board in the project<br>
+I used a <a href=https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano>nano</a> board in the project<br>
 
 <img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/schematic.jpg><br>
 
