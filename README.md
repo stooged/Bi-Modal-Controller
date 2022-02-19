@@ -31,7 +31,7 @@ bottom<br>
 
 
 bench test<br>
-[![Watch the video](https://yt-embed.herokuapp.com/embed?v=TB7NT5wheGc)](https://youtu.be/TB7NT5wheGc)
+[![video](https://yt-embed.herokuapp.com/embed?v=TB7NT5wheGc)](https://youtu.be/TB7NT5wheGc)
 
 <br>
 
