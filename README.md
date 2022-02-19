@@ -2,7 +2,7 @@
 
 `Archiving old project`
 
-this is a project to control the electronic bi modal valve controllers using arduino.<br>
+this is a project to control the electronic bi modal valve controllers in the vf commodore using arduino.<br>
 it uses 10v PWM at 200hz to control the valve state<br>
 
 I just went with a simple momentary switch to toggle the valves but you could use a remote relay or you could add a Bluetooth module to the Arduino project and use a mobile phone to toggle the valves.<br>
