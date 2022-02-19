@@ -26,10 +26,14 @@ in the box<br>
 top<br>
 <img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/my_build_top.jpg><br>
 bottom<br>
-<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/my_build_bottom.jpg><br>
+<img src=https://github.com/stooged/Bi-Modal-Controller/blob/main/Pictures/my_build_bottom.jpg><br><br>
 
 
 
+bench test<br>
+[![Watch the video](https://yt-embed.herokuapp.com/embed?v=TB7NT5wheGc)](https://youtu.be/TB7NT5wheGc)
+
+<br>
 
 <b>Needed parts</b>:<br>
 1x <a href=https://www.jaycar.com.au/duinotech-nano-board-arduino-compatible/p/XC4414>https://www.jaycar.com.au/duinotech-nano-board-arduino-compatible/p/XC4414</a>  -  $29.95<br>
